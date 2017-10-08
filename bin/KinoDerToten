@@ -1,0 +1,6 @@
+{"type":"hero","id":"01","geometry":{"type":"rectangle","x": 450, "y": 200, "width":64, "length": 64}, "name": "doctor", "speed": 10, "hp": 100};
+{"type":"obstacle","id":"02","geometry":{"type":"rectangle","x": 50, "y": 0, "width": 950, "length": 50}, "red": 250, "green": 250, "blue": 250};
+{"type":"obstacle","id":"03","geometry":{"type":"rectangle","x": 1000, "y": 0, "width": 50, "length": 1000}, "red": 250, "green": 250, "blue": 250};
+{"type":"obstacle","id":"04","geometry":{"type":"rectangle","x": 0, "y": 0, "width": 50, "length": 1000}, "red": 250, "green": 250, "blue": 250};
+{"type":"obstacle","id":"05","geometry":{"type":"rectangle","x": 0, "y": 1000, "width": 1050, "length": 50}, "red": 250, "green": 250, "blue": 250};
+{"type":"obstacle","id":"07","geometry":{"type":"polygon", "x":400, "y":400, "coordinates":[[400, 400],[350, 450], [650, 750], [700, 700]]}, "red": 250, "green": 250, "blue": 250};

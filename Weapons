@@ -1,0 +1,1 @@
+{"name":"handgun","id":"01", "automatic": "true", "damage": 10, "clip": 8, "ammunition": 80, "framesPerShot": 8, "bulletSpeed" : 20, "bulletRadius": 8, "red": 250, "green": 0, "blue": 0};
